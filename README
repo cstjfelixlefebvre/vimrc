@@ -1,0 +1,9 @@
+Vim Config
+
+
+Setup vimrc
+Windows - clone in ~\vimfiles\vimrc\
+
+~\.vimrc
+source ~\vimfiles\vimrc\.vimrc
+call pathogen#infect()
