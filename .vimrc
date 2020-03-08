@@ -5,7 +5,7 @@ filetype plugin indent on
 
 "Mapping - NERDTree - vimrc
 map <F2> :NERDTreeToggle<CR>
-map <F3> :tabnew ~\vimfiles\.vimrc<CR>
+map <F3> :tabnew ~\vimfiles\vimrc\.vimrc<CR>
 let NERDTreeIgnore=['\.meta$']
 
 "Linenumber + Theming
